@@ -62,9 +62,9 @@ body {
   justify-content: space-between;
 }
 .section2 .two .right img {
-  width: 80%;
+  width: 100%;
   object-fit: contain;
-  border-radius: 10%;
+  border-radius: 7%;
 }
 .section2 .two .left h1 {
   width: 80%;
